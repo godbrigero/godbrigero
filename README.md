@@ -37,6 +37,21 @@
   </a>
 </p>
 
+## Best Memes
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=WPrSZvvt9Ow&ab_channel=HCPP">
+    <img
+      src="https://img.youtube.com/vi/WPrSZvvt9Ow/0.jpg"
+      alt="Lenin Defending C++"
+      width="120"
+      style="border-radius:8px;"
+    />
+    <br/>
+    <strong>Lenin Defending C++</strong>
+  </a>
+</p>
+
 
 ## 🌟 Featured Projects
 - 🤖 **Autonomous Navigation System** - SLAM implementation for mobile robots
