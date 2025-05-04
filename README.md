@@ -5,9 +5,9 @@
 </div>
 
 ## 🚀 About Me
-- 🤖 Passionate robotics engineer crafting autonomous navigation solutions
-- 🎯 Specializing in SLAM (Simultaneous Localization and Mapping) algorithms
-- 🦀 Building robust systems with Rust
+- 🤖 Passionate robotics engineer making autonomous navigation
+- 🎯 Vision + Pathfinding + AI
+- 🦀 Rust all the way
 - 💡 Contributing to FRC Team 4765's success
 - 🔧 Always tinkering with new technologies
 
@@ -21,6 +21,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=godbrigero&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=godbrigero&theme=radical" />
 </div>
+
+## 🎵 Best Songs
+
+<p align="center">
+  <a href="https://open.spotify.com/track/2yr6dN5nvbRpIyKePCuQ1j?si=vGUlDZclTVeuOQcAsjhRdA">
+    <img
+      src="https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e023f5eb3046c81a86fc5e075f7"
+      alt="Italia – Umberto Tozzi"
+      width="120"
+      style="border-radius:8px;"
+    />
+    <br/>
+    <strong>Italia – BAGARDI</strong>
+  </a>
+</p>
+
 
 ## 🌟 Featured Projects
 - 🤖 **Autonomous Navigation System** - SLAM implementation for mobile robots
