@@ -9,36 +9,36 @@
 
 ### Robotics & competition
 
-| Project | Summary |
-| :--- | :--- |
-| [**B.L.I.T.Z**](https://github.com/godbrigero/B.L.I.T.Z.) | Raspberry Pi swarm backend; decentralized, load-aware deploy tooling (full stack mostly local). |
-| [**2026 Rebuilt**](https://github.com/godbrigero/2026Rebuilt) | Competition robot: AprilTags, global pose (custom EKF, GTSAM planned), Pi load on deploy — ties into B.L.I.T.Z. |
-| [**command-robot-base**](https://github.com/godbrigero/command-robot-base) | Open FRC template: B.L.I.T.Z stack on top of WPILib command pattern. |
-| [**Viz3**](https://github.com/godbrigero/viz3) | Game-style 3D view of pub/sub traffic on the Pi network. |
+| Project                                                                          | Summary                                                                                                         |
+| :------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
+| [**B.L.I.T.Z**](https://github.com/PinewoodRobotics/B.L.I.T.Z)                   | Raspberry Pi swarm backend; decentralized, load-aware deploy tooling (full stack mostly local).                 |
+| [**2026 Rebuilt**](https://github.com/PinewoodRobotics/2026Rebuilt)              | Competition robot: AprilTags, global pose (custom EKF, GTSAM planned), Pi load on deploy — ties into B.L.I.T.Z. |
+| [**command-robot-base**](https://github.com/PinewoodRobotics/command-robot-base) | Open FRC template: B.L.I.T.Z stack on top of WPILib command pattern.                                            |
+| [**Viz3**](https://github.com/godbrigero/viz3)                                   | Game-style 3D view of pub/sub traffic on the Pi network.                                                        |
 
 ### Messaging, SLAM & sensors
 
-| Project | Summary |
-| :--- | :--- |
-| [**autobahn**](https://github.com/godbrigero/autobahn) · [**autobahn_client**](https://github.com/godbrigero/autobahn_client) | Decentralized pub/sub, client-side RPC — Rust server + multi-language clients. |
-| [**GooglePotato**](https://github.com/godbrigero/GooglePotato) | Java bridge to Google Cartographer for 2D/3D lidar SLAM. |
-| [**Unilidar-SDK-Rust**](https://github.com/godbrigero/Unilidar-SDK-Rust) · [**unitree_lidar_sdk_for_java**](https://github.com/godbrigero/unitree_lidar_sdk_for_java) | Rust/Java ports of vendor lidar SDKs. |
-| [**CudaTags**](https://github.com/godbrigero/CudaTags) | GPU AprilTags on Jetson-class hardware. |
+| Project                                                                                                                                                               | Summary                                                                        |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- |
+| [**autobahn**](https://github.com/godbrigero/autobahn) · [**autobahn_client**](https://github.com/godbrigero/autobahn_client)                                         | Decentralized pub/sub, client-side RPC — Rust server + multi-language clients. |
+| [**GooglePotato**](https://github.com/godbrigero/GooglePotato)                                                                                                        | Java bridge to Google Cartographer for 2D/3D lidar SLAM.                       |
+| [**Unilidar-SDK-Rust**](https://github.com/godbrigero/Unilidar-SDK-Rust) · [**unitree_lidar_sdk_for_java**](https://github.com/godbrigero/unitree_lidar_sdk_for_java) | Rust/Java ports of vendor lidar SDKs.                                          |
+| [**CudaTags**](https://github.com/PinewoodRobotics/CudaTags)                                                                                                          | GPU AprilTags on Jetson-class hardware.                                        |
 
 ### Libraries & tooling
 
-| Project | Summary |
-| :--- | :--- |
-| [**napoleon**](https://github.com/godbrigero/napoleon) | Rust path planning (`RRT*`, `A*`) with Java bindings. |
-| [**Pathfinder3D**](https://github.com/godbrigero/Pathfinder3D) | Drop-in Java pathfinding (2D/3D grids); no hand-rolled `A*`. |
-| [**no-incode-comments**](https://github.com/godbrigero/no-incode-comments) | Rust proc macro — docs in external Markdown, not inline. |
+| Project                                                                    | Summary                                                      |
+| :------------------------------------------------------------------------- | :----------------------------------------------------------- |
+| [**napoleon**](https://github.com/godbrigero/napoleon)                     | Rust path planning (`RRT*`, `A*`) with Java bindings.        |
+| [**Pathfinder3D**](https://github.com/godbrigero/Pathfinder3D)             | Drop-in Java pathfinding (2D/3D grids); no hand-rolled `A*`. |
+| [**no-incode-comments**](https://github.com/godbrigero/no-incode-comments) | Rust proc macro — docs in external Markdown, not inline.     |
 
 ### Web & team
 
-| Project | Summary |
-| :--- | :--- |
-| [**pwrup-website**](https://github.com/godbrigero/pwrup-website) · [**PWRUPCore**](https://github.com/godbrigero/PWRUPCore) | Team site (pinewood.one) and shared Java/Protobuf robot utilities. |
-| [**Campify**](https://github.com/godbrigero/Campify) | School counseling app: programs, auth, AI filtering, camp chat (Next.js). |
+| Project                                                                                                                     | Summary                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| [**pwrup-website**](https://github.com/godbrigero/pwrup-website) · [**PWRUPCore**](https://github.com/godbrigero/PWRUPCore) | Team site (pinewood.one) and shared Java/Protobuf robot utilities.        |
+| [**Campify**](https://github.com/godbrigero/Campify)                                                                        | School counseling app: programs, auth, AI filtering, camp chat (Next.js). |
 
 **Open source:** past contributor on [**groq-api-rs**](https://github.com/godbrigero/groq-api-rs) (Rust client for Groq’s API).
 
@@ -56,7 +56,7 @@
 
 ---
 
-## *Essential* viewing
+## _Essential_ viewing
 
 <div align="center">
 
